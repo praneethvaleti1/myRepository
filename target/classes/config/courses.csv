@@ -1,0 +1,19 @@
+Semester,Department,CourseId,Course Name
+Semester-01,Computer Science,CS101,Mathematics-1
+Semester-01,Computer Science,CS102,Basic Electrical and Electronics
+Semester-01,Computer Science,CS103,Engineering graphics
+Semester-01,Information and Technology,IT101,Mathematics-1
+Semester-01,Information and Technology,IT102,Basic Electrical and Electronics
+Semester-01,Information and Technology,IT103,Engineering graphics
+Semester-02,Computer Science,CS201,Engineering Physics
+Semester-02,Computer Science,CS202,Basic Mechanical Engineering
+Semester-02,Computer Science,CS203,Basic Computer Engineering 
+Semester-02,Information and Technology,IT201,Engineering Physics
+Semester-02,Information and Technology,IT202,Basic Mechanical Engineering
+Semester-02,Information and Technology,IT203,Basic Computer Engineering 
+Semester-03,Computer Science,CS301,Mathematics-3
+Semester-03,Computer Science,CS302,Electronic Devices and Circuits
+Semester-03,Computer Science,CS303,Digital Circuits and Design
+Semester-03,Information and Technology,IT301,Mathematics-3
+Semester-03,Information and Technology,IT302,Digital Circuits and Systems
+Semester-03,Information and Technology,IT303,Object Oriented Programming

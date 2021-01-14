@@ -1,0 +1,8 @@
+com\collegemgmtservice\controller\CollegeController.class
+com\collegemgmtservice\model\User.class
+com\collegemgmtservice\model\Course.class
+com\collegemgmtservice\dao\CourseRepo.class
+com\collegemgmtservice\services\AddCourses.class
+com\collegemgmtservice\dao\UserRepository.class
+com\collegemgmtservice\CollegeManagementApplication.class
+com\collegemgmtservice\dao\InsertCourse.class
